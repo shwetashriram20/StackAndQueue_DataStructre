@@ -1,1 +1,1 @@
-# StackAndQueue_DataStructre
+# StackAndQueue_DataStructure
